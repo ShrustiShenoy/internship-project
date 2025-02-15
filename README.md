@@ -1,4 +1,4 @@
-# internship-project
+# Internship-project
 
 # WGS/WXS Tongue Cancer Variant Calling Pipeline
 
